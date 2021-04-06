@@ -1,0 +1,14 @@
+---
+:id: 59722391
+:submitters:
+- :name: Marie Kyla Perez
+  :email: mkperez@ucdavis.edu
+- :name: Nicole Pavlovich
+  :email: npavlovich@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-17 05:29:12.544266000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-16 21:29:12.544266000 Z
+:status: processed
+:score: 99.9576

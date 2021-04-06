@@ -1,0 +1,14 @@
+---
+:id: 52863840
+:submitters:
+- :name: Ryan Place
+  :email: rhplace@ucdavis.edu
+- :name: Nicole Pavlovich
+  :email: npavlovich@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-01 18:55:22.535060000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-01 10:55:22.535060000 Z
+:status: processed
+:score: 100.0
