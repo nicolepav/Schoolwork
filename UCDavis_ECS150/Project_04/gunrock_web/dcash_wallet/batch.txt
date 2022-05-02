@@ -1,0 +1,5 @@
+auth kingst 123 king@ucd.edu
+auth kingst 123 kingnew@ucd.edu
+auth honey 409 honey@ucd.edu
+auth kingst 321 king@ucd.edu
+auth badName 123 bad@bad.com
