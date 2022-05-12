@@ -1,0 +1,58 @@
+img {
+  width: 100%;
+}
+
+body {
+  background-color: #9bcdfc
+;
+}
+
+p.name {
+  font-family: 'Open Sans','Trebuchet MS', sans-serif;
+  font-weight: bold;
+  font-size: 115%;
+  color: black;
+}
+
+p.subtext {
+  font-family: 'Open Sans','Trebuchet MS', sans-serif;
+  font-size: 100%;
+  color: black;
+}
+
+div.heading {
+  min-width: 140px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+
+  font-family: 'Open Sans','Trebuchet MS', sans-serif;
+  color: black;
+  font-size: 250%;
+  font-weight: bold;
+  text-align: center;
+}
+
+div.image {
+  max-width: 150px;
+  max-height: 150px;
+}
+
+div.tile {
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+div.main-container {
+  min-width: 140px; /*Ensures tiles stay centered as images shrink past one column territory */
+  max-width: 600px; /*600 is the maximum width to which 3 columns is maintained (any higher and it goes to 4). */
+
+	display: flex;
+	justify-content: center;
+	flex-flow: row wrap;
+  margin-left: auto; 
+  margin-right: auto;
+}
+
